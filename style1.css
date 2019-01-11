@@ -1,0 +1,35 @@
+
+
+body {
+	background-image: url(http://www.bankimpresanews.com/wp-content/uploads/2017/06/Water.jpg);
+	background-size: cover;
+	text-align: right;
+	border: 5px dotted black;
+	
+}
+
+h1 {
+	color: red;
+	text-align: center;
+	border: 10px groove red;
+}
+h3 {
+	text-align: right;
+}
+
+p {
+	text-align: center;
+	color: red;
+}
+
+li , img {
+	image-rendering: pixelated;
+}
+img {
+	width: 100px;
+	height: 100px;
+	transition: all 1s;
+}
+img:hover{
+	transform: scale(1.3);
+}

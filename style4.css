@@ -1,0 +1,52 @@
+body {
+	color: blue;
+}
+ p {
+ 	color: green;
+ 	line-height: 35px;
+ 	font-style: normal;
+ 	font-weight: 443;
+ 	font-size: 120%;
+ 	font-family: Poppins;
+ }
+ img {
+ 	float: left;
+ }
+ footer {
+ 	clear: both;
+ }
+ li ,li {
+ 	color: red;
+ }
+ .boxmodel {
+ 	text-align: center;
+ 	color: purple;
+ 	border: 4px dotted navy;
+ 	display: inline-block;
+ 	padding: 4px 4px;
+ 	margin: 5px 5px;
+
+ }
+ span {
+	color: purple;
+	font-size: 5rem
+}
+ .webtext1:lasti-child { 
+  color: green;
+  border: 5px dashed yellow;
+}
+.active {
+	background: pink;
+}
+.webtext2 { 
+border: 5px dashed red; 
+}
+#div1 {
+	background: rgba(0, 0, 255, 0.2);
+}
+#div2 {
+	background: rgba(0,255, 0, 0.2);
+.class {
+	color: purple;
+}
+
